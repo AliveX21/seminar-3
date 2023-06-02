@@ -30,3 +30,4 @@ ctrl + s
 git checkout (имя ветки)
 ```
 
+
