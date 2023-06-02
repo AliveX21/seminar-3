@@ -29,3 +29,4 @@ ctrl + s
 ```fix
 git checkout (имя ветки)
 ```
+
