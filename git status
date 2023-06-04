@@ -1,0 +1,90 @@
+*   [33mcommit 4ea7d06a51a6a212ce57c51624250ce40eba1839[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+[31m|[m[32m\[m  Merge: 91c2d64 b12856e
+[31m|[m [32m|[m Author: unknown <Alive_1986@mail.ru>
+[31m|[m [32m|[m Date:   Fri Jun 2 16:38:37 2023 +0300
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Слили изменения с учетом конфликта
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit b12856e4ca5c3baf40d80e780c1865515c08ded7[m[33m ([m[1;32mlists[m[33m)[m
+[31m|[m [32m|[m Author: unknown <Alive_1986@mail.ru>
+[31m|[m [32m|[m Date:   Fri Jun 2 16:26:34 2023 +0300
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Добавили нумерованные и ненумерованные списки
+[31m|[m [32m|[m 
+* [32m|[m [33mcommit 91c2d64546d443db170e3cebc414f8454100947b[m
+[32m|[m [32m|[m Author: unknown <Alive_1986@mail.ru>
+[32m|[m [32m|[m Date:   Fri Jun 2 16:31:06 2023 +0300
+[32m|[m [32m|[m 
+[32m|[m [32m|[m     Добавили информацию в разделе списки
+[32m|[m [32m|[m 
+* [32m|[m [33mcommit 686e39782acc352c57a104c5a51ce9de82bafdc8[m
+[32m|[m[32m/[m  Author: unknown <Alive_1986@mail.ru>
+[32m|[m   Date:   Fri Jun 2 16:19:29 2023 +0300
+[32m|[m   
+[32m|[m       Добавили ветку lists
+[32m|[m 
+* [33mcommit cb3fad11def325a86090c8b2cea21c049b695841[m[33m ([m[1;32mimages[m[33m)[m
+[32m|[m Author: unknown <Alive_1986@mail.ru>
+[32m|[m Date:   Fri Jun 2 16:08:58 2023 +0300
+[32m|[m 
+[32m|[m     Добавили gtignore файл
+[32m|[m 
+* [33mcommit e779ed49a8e91a9ce1079cc6ccc1704635e1341d[m
+[32m|[m Author: unknown <Alive_1986@mail.ru>
+[32m|[m Date:   Fri Jun 2 15:57:28 2023 +0300
+[32m|[m 
+[32m|[m     Добавили инструкцию как вставить в текст изображение
+[32m|[m 
+* [33mcommit a8b05714a626a977baa2556ad804427a76673e31[m
+[32m|[m Author: unknown <Alive_1986@mail.ru>
+[32m|[m Date:   Fri Jun 2 15:44:01 2023 +0300
+[32m|[m 
+[32m|[m     save2
+[32m|[m 
+* [33mcommit 30b2166127300331e064766dbcbdf0de1716cc25[m
+[32m|[m Author: unknown <Alive_1986@mail.ru>
+[32m|[m Date:   Fri Jun 2 15:42:48 2023 +0300
+[32m|[m 
+[32m|[m     save
+[32m|[m 
+* [33mcommit 1c0c407a3d2ac195403195251ca16d8e4675b1ba[m
+[32m|[m Author: unknown <Alive_1986@mail.ru>
+[32m|[m Date:   Wed May 31 18:09:20 2023 +0300
+[32m|[m 
+[32m|[m     Добавили как переключиться на другую ветку
+[32m|[m 
+* [33mcommit 53e79247362b536aa0e71d66b4e23db8caea07d8[m
+[32m|[m Author: unknown <Alive_1986@mail.ru>
+[32m|[m Date:   Wed May 31 17:58:40 2023 +0300
+[32m|[m 
+[32m|[m     Добавили как сохранить последние изменения в файле
+[32m|[m 
+* [33mcommit 65f0f0d12a051f4b68ad10bd7adfe769675b19fa[m
+[32m|[m Author: unknown <Alive_1986@mail.ru>
+[32m|[m Date:   Wed May 31 17:56:18 2023 +0300
+[32m|[m 
+[32m|[m     Добавили как сохранить последние изменения в файле
+[32m|[m 
+* [33mcommit 2a7e83add95d3553b242fd7e1cf02a38f2b7fdfc[m
+[32m|[m Author: unknown <Alive_1986@mail.ru>
+[32m|[m Date:   Wed May 31 17:40:51 2023 +0300
+[32m|[m 
+[32m|[m     feat:add new paragraph in document
+[32m|[m 
+* [33mcommit 22e6763694b897b77f10a506a0559df68e58d6e3[m
+[32m|[m Author: unknown <Alive_1986@mail.ru>
+[32m|[m Date:   Wed May 31 17:19:20 2023 +0300
+[32m|[m 
+[32m|[m     docs:update document, add new paragraph
+[32m|[m 
+* [33mcommit 7aaca4746ff66202083796f9c514c94f77a3eb90[m
+[32m|[m Author: unknown <Alive_1986@mail.ru>
+[32m|[m Date:   Wed May 31 16:55:22 2023 +0300
+[32m|[m 
+[32m|[m     docs:update document, add new main chapter
+[32m|[m 
+* [33mcommit b17c90a88e71a9912ab09c433f5a9b6a8dcd86b0[m
+  Author: unknown <Alive_1986@mail.ru>
+  Date:   Wed May 31 16:33:57 2023 +0300
+  
+      init: start project
